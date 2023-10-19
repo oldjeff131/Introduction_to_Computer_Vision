@@ -1,0 +1,15 @@
+G:\school\C#ppt\hw7\4a830212\4a830212\bin\Debug\netcoreapp3.1\4a830212.exe
+G:\school\C#ppt\hw7\4a830212\4a830212\bin\Debug\netcoreapp3.1\4a830212.deps.json
+G:\school\C#ppt\hw7\4a830212\4a830212\bin\Debug\netcoreapp3.1\4a830212.runtimeconfig.json
+G:\school\C#ppt\hw7\4a830212\4a830212\bin\Debug\netcoreapp3.1\4a830212.runtimeconfig.dev.json
+G:\school\C#ppt\hw7\4a830212\4a830212\bin\Debug\netcoreapp3.1\4a830212.dll
+G:\school\C#ppt\hw7\4a830212\4a830212\bin\Debug\netcoreapp3.1\4a830212.pdb
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.csprojAssemblyReference.cache
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\_4a830212.Form1.resources
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.csproj.GenerateResource.cache
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.AssemblyInfoInputs.cache
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.AssemblyInfo.cs
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.csproj.CoreCompileInputs.cache
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.dll
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.pdb
+G:\school\C#ppt\hw7\4a830212\4a830212\obj\Debug\netcoreapp3.1\4a830212.genruntimeconfig.cache
