@@ -1,0 +1,10 @@
+G:\school\C#ppt\hw12\4a830212\4a830212\bin\Debug\4a830212.exe.config
+G:\school\C#ppt\hw12\4a830212\4a830212\bin\Debug\4a830212.exe
+G:\school\C#ppt\hw12\4a830212\4a830212\bin\Debug\4a830212.pdb
+G:\school\C#ppt\hw12\4a830212\4a830212\obj\Debug\4a830212.csprojAssemblyReference.cache
+G:\school\C#ppt\hw12\4a830212\4a830212\obj\Debug\_4a830212.Form1.resources
+G:\school\C#ppt\hw12\4a830212\4a830212\obj\Debug\_4a830212.Properties.Resources.resources
+G:\school\C#ppt\hw12\4a830212\4a830212\obj\Debug\4a830212.csproj.GenerateResource.cache
+G:\school\C#ppt\hw12\4a830212\4a830212\obj\Debug\4a830212.csproj.CoreCompileInputs.cache
+G:\school\C#ppt\hw12\4a830212\4a830212\obj\Debug\4a830212.exe
+G:\school\C#ppt\hw12\4a830212\4a830212\obj\Debug\4a830212.pdb
